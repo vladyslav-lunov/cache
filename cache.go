@@ -1,4 +1,4 @@
-package github.com/vladyslav-lunov/cache
+package cache
 
 type Cache struct {
 	m map[string]interface{}

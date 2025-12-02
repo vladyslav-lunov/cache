@@ -5,7 +5,7 @@ A simple, lightweight in-memory cache library for Go.
 ## Installation
 
 ```bash
-go get github.com/yourusername/cache
+go get github.com/vladyslav-lunov/cache
 ```
 
 ## Features
@@ -23,7 +23,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/cache"
+    "github.com/vladyslav-lunov/cache"
 )
 
 func main() {
@@ -64,7 +64,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/cache"
+    "github.com/vladyslav-lunov/cache"
 )
 
 type User struct {
